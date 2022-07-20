@@ -1,0 +1,7 @@
+build/
+node_modules/
+yarn.lock
+.next/
+*.md
+*.css
+coverage/
